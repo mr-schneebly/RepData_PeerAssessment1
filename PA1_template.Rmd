@@ -3,9 +3,9 @@ title: "PA1_template.Rmd"
 author: "me"
 date: "2024-11-20"
 output:
+  html_document: default
   md_document: 
     variant: markdown_github
-  html_document: default
 ---
 
 ```{r setup, include=FALSE}
